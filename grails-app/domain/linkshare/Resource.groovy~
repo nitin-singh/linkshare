@@ -1,0 +1,10 @@
+package linkshare
+
+class Resource {
+    String description
+    Topic topic
+    Date dateCreated,dateUpdated
+    static belongsTo [topic:Topic]
+    static constraints = {
+    }
+}

@@ -1,0 +1,7 @@
+package linkshare
+
+class ResourceRating {
+
+    static constraints = {
+    }
+}

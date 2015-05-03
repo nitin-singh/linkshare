@@ -1,0 +1,7 @@
+package linkshare
+
+class ReadingItem {
+
+    static constraints = {
+    }
+}
